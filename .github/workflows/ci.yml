@@ -21,3 +21,4 @@ jobs:
         run: |
           echo $CFLAGS
           echo "helo world"
+          echo "helo world"
