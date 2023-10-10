@@ -20,3 +20,4 @@ jobs:
       - name: Install docker compose
         run: |
           echo $CFLAGS
+          echo "helo world"
